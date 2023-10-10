@@ -1,2 +1,2 @@
 #!/bin/bash
-tee -a iacta
+sort -u iacta
