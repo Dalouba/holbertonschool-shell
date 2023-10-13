@@ -1,2 +1,2 @@
 #!/bin/bash
-$((base_of_interest#number_to_be_converted)) .
+echo "$((2#$BINARY))"
